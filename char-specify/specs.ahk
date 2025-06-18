@@ -30,14 +30,14 @@ genderAreaY1 := 275
 genderAreaX2 := 825
 genderAreaY2 := 325
 
-adultExperienceImage := ".\experience\adult\marine-warrior.png"
-juniorExperienceImage := ".\experience\junior\wreck-explorer.png"
-healthyImage := ".\basics\healthy.png"
-fitForAllWorkImage := ".\basics\fully-workable.png"
-genderImage := ".\basics\gender-male.png"
+adultExperienceImage := ".\en\experience\adult\marine-warrior.png"
+juniorExperienceImage := ".\en\experience\junior\wreck-explorer.png"
+healthyImage := ".\en\basics\healthy.png"
+fitForAllWorkImage := ".\en\basics\fully-workable.png"
+genderImage := ".\en\basics\gender-male.png"
 
-genderCheck := true
-adultExperienceCheck := true
+genderCheck := false
+adultExperienceCheck := false
 juniorExperienceCheck := false
 healthyCheck := true
 fitForAllWorkCheck := true
